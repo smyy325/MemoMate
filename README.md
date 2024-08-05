@@ -68,6 +68,8 @@ MemoMate is a versatile and user-friendly notepad application designed to help y
 ![Ekran görüntüsü 2024-08-05 140308](https://github.com/user-attachments/assets/34346951-5bec-4287-ac79-8d376940440d)
 ![Ekran görüntüsü 2024-08-05 140332](https://github.com/user-attachments/assets/3404e86c-5058-49e4-9f1b-e1ce3099dae5)
 ![Ekran görüntüsü 2024-08-05 140350](https://github.com/user-attachments/assets/21ec8991-c77d-45dc-bd09-c3ad544b35bf)
+https://github.com/user-attachments/assets/983d28fd-75b6-4c51-b820-9e9d56462341
+
 
 
 
