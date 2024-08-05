@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109035626261",
+    "project_id": "benim-not-defterim",
+    "storage_bucket": "benim-not-defterim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109035626261:android:11b42da3cfa3a8f1c3d31c",
+        "android_client_info": {
+          "package_name": "com.mynotebookproject.my_notebook_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJDLR2r-DfBJrhM3XKcUpABj4xInyENnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
